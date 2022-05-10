@@ -12,6 +12,9 @@ in the root folder, and the generated pdf file will be ``build/paper.pdf``
 make clean
 ```
 
+# Code and Experiment
+Code is available [here](https://github.com/Kraks/sai.git).  Reproducible Experiment is available [here](https://github.com/Kuigesi/2022-summer-report-reproducible.git), follow the README of that repo to reproduce the experiment.
+
 # Required LaTeX Packages
 ## Texlive
 
